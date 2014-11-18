@@ -1,0 +1,84 @@
+
+* {
+
+  box-sizing: border-box;  
+
+}
+
+body {
+
+  padding: 50px;
+
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+  background: #99f;
+
+}
+
+#wrapper {
+
+  margin: 30px auto;
+
+  width: 450px;
+
+}
+
+
+form {
+
+  width: 450px;
+
+  border: 1px solid rgba(255,255,255,.2);
+
+  border-radius: 5px;
+
+  padding-top: 25px;
+
+}
+
+#errors {
+
+  display: none;
+
+  background: #f99;
+
+  margin: 0 25px 25px;
+
+  padding: 10px;
+
+}
+
+input {
+
+  display: block;
+
+  width: 400px;
+
+  margin: 0 auto 20px;
+
+  padding: 8px;
+
+}
+
+#error {
+
+  border: 2px solid #ccff99;
+
+}
+
+
+
+
+#submit {
+
+  background: #3c3;
+
+  color: #fff;
+
+  border: none;
+
+  padding: 8px 0;
+
+  border-radius: 8px;
+
+}
